@@ -1,0 +1,21 @@
+# --- JAVA & MAVEN ---
+target/
+*.class
+*.log
+*.jar
+*.war
+
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.settings/
+.classpath
+.project
+bin/
