@@ -1,4 +1,5 @@
 package com.nei.library.model;
 
-public class PerfilJugador {
-}
+import java.util.UUID;
+
+public record PerfilJugador(UUID id, String nombre, int nivel) {}
